@@ -36,3 +36,6 @@
 - [Тема Andromeda](https://github.com/7eximmortal/Andromeda)
 - [Material Icon Theme](https://github.com/7eximmortal/vscode-material-icon-theme)
 - [Language Packs](https://github.com/Microsoft/vscode-loc)
+
+### BASH
+- [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
