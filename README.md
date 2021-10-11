@@ -39,3 +39,6 @@
 
 ### BASH
 - [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
+
+### JavaScript
+- [Учебник по JavaScript](https://learn.javascript.ru/)
