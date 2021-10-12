@@ -42,3 +42,6 @@
 
 ### JavaScript
 - [Учебник по JavaScript (learn.javascript.ru)](https://learn.javascript.ru/)
+
+### Lua
+- [3 издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
