@@ -56,4 +56,4 @@
 
 ### Lua
 
-- [3 издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
+- [3-ие издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
