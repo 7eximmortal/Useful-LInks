@@ -41,6 +41,10 @@
 
 - [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
 
+### Web Graphics
+
+- [Учебник по веб графике (MDN)](https://developer.mozilla.org/ru/docs/Web/Guide/Graphics)
+
 ### JavaScript
 
 - [Учебник по JavaScript (learn.javascript.ru)](https://learn.javascript.ru/)
