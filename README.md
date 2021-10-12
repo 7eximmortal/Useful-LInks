@@ -38,10 +38,22 @@
 - [Language Packs](https://github.com/Microsoft/vscode-loc)
 
 ### BASH
+
 - [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
 
 ### JavaScript
+
 - [Учебник по JavaScript (learn.javascript.ru)](https://learn.javascript.ru/)
+- [Учебник по JavaScript (MDN)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+
+### CSS
+
+- [Учебник по CSS (MDN)](https://developer.mozilla.org/ru/docs/Web/CSS)
+
+### HTML
+
+- [Учбеник по HTML (MDN)](https://developer.mozilla.org/ru/docs/Web/HTML)
 
 ### Lua
+
 - [3 издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
