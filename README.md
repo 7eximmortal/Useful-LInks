@@ -61,3 +61,6 @@
 ### Lua
 
 - [3-ие издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
+
+### Yarn
+- [Документация по Yarn (официальный сайт)](https://classic.yarnpkg.com/lang/en/docs/)
