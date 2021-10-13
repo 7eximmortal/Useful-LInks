@@ -40,6 +40,7 @@
 ### BASH
 
 - [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
+- [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
 
 ### Web Graphics
 
