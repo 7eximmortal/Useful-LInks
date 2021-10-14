@@ -51,6 +51,10 @@
 - [Учебник по JavaScript (learn.javascript.ru)](https://learn.javascript.ru/)
 - [Учебник по JavaScript (MDN)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
+### Node.js
+
+-[Официальная документация](https://nodejs.org/ru/docs/)
+
 ### CSS
 
 - [Учебник по CSS (MDN)](https://developer.mozilla.org/ru/docs/Web/CSS)
