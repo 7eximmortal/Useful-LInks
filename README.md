@@ -25,7 +25,7 @@
 
 - [Синтаксис MarkDown](https://gist.github.com/7eximmortal/f1af097f57e65a2d36358a52052b029f)
 
-### Visual Studio Plugins
+### Visual Studio Code Plugins
 
 - [Тема SynthWave '84](https://github.com/7eximmortal/synthwave-vscode)
 - [Отражение действий в Discord](https://github.com/7eximmortal/discord-vscode)
