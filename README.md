@@ -53,7 +53,7 @@
 
 ### Node.js
 
--[Официальная документация](https://nodejs.org/ru/docs/)
+- [Официальная документация](https://nodejs.org/ru/docs/)
 
 ### CSS
 
