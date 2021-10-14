@@ -52,6 +52,7 @@
 - [Учебник по JavaScript (MDN)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Стиль написания кода от Airbnb](https://leonidlebedev.github.io/javascript-airbnb/)
 - [Стиль написания кода от lwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
+- [Стиль написания кода от StandartJS](https://standardjs.com/)
 
 ### Node.js
 
