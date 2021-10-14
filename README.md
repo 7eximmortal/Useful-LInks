@@ -1,5 +1,5 @@
 ![useful](https://www.usefulsimple.co.uk/assets/Values1600x950_USEFUL5-b5c7777e24f79c3956532876dc2d1870dd545cce943a65916097a92df8fd817c.png)
-# Useful Links!
+# Various useful links for developers! | Различные полезные ссылки для разработчиков!
 
 ### CentOS 
 
