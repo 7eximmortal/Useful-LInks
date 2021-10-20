@@ -51,6 +51,8 @@
 
 - Плагины
   - [Language Packs](https://github.com/Microsoft/vscode-loc)
+  - Темы
+    - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
 
 ## BASH
 
