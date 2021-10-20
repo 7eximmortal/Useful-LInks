@@ -17,29 +17,13 @@
 - [Vk-io](https://www.npmjs.com/package/vk-io)
 - [File-system](https://www.npmjs.com/package/file-system)
 
-### Git
-
-- [Шпаргалка по командам git](https://github.com/7eximmortal/Git-commands)
-
-### MarkDown
-
-- [Синтаксис MarkDown](https://gist.github.com/7eximmortal/f1af097f57e65a2d36358a52052b029f)
 
 ### Visual Studio Code Plugins
 
-- [Тема SynthWave '84](https://github.com/7eximmortal/synthwave-vscode)
-- [Отражение действий в Discord](https://github.com/7eximmortal/discord-vscode)
-- [Тема Palenight](https://github.com/7eximmortal/vscode-palenight-theme)
-- [Markdown Support](https://github.com/7eximmortal/vscode-markdown)
-- [MongoDB](https://github.com/7eximmortal/vscode)
-- [LiveServer](https://github.com/7eximmortal/vscode-live-server)
-- [Тема Andromeda](https://github.com/7eximmortal/Andromeda)
-- [Material Icon Theme](https://github.com/7eximmortal/vscode-material-icon-theme)
 - [Language Packs](https://github.com/Microsoft/vscode-loc)
 
 ### BASH
 
-- [Шпаргалка по bash](https://github.com/7eximmortal/BASH-Commands)
 - [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
 
 ### Web Graphics
