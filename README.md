@@ -2,7 +2,7 @@
 # Various useful links for developers! 📊
 
 ## CentOS 
-- Разное
+- Литература
   - [Установка node js на centOS 8](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-centos-8-ru)
   - [Установка git на centOS](https://losst.ru/ustanovka-git-centos-8)
   - [Список команд CentOS](https://www.sites.google.com/site/dlasebamne/home/spisok-komand-centos)
@@ -40,10 +40,9 @@
 - Литература
   - [Учебник по JavaScript learn.javascript.ru](https://learn.javascript.ru/)
   - [Учебник по JavaScript MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- Стили написания кода
-  - [Airbnb](https://leonidlebedev.github.io/javascript-airbnb/)
-  - [lwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
-  - [StandartJS](https://standardjs.com/)
+  - [Стиль написания кода от Airbnb](https://leonidlebedev.github.io/javascript-airbnb/)
+  - [Стиль написания кода от lwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
+  - [Стиль написания кода от StandartJS](https://standardjs.com/)
 - Линтеры
   - [ESLint](https://eslint.org/)
 
@@ -62,7 +61,7 @@
 
 ## BASH
 
-- Разное
+- Литература
   - [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
 
 ## Web
@@ -71,5 +70,10 @@
   - [Учбеник по WEB Графике MDN](https://developer.mozilla.org/ru/docs/Web/Guide/Graphics)
 
 ## Yarn
+
 - Литература
   - [Официальная документация](https://classic.yarnpkg.com/lang/en/docs/)
+
+## MarkDown
+- Литература
+  - [Синтаксис по MarkDown](https://gist.github.com/Jekins/2bf2d0638163f1294637)
