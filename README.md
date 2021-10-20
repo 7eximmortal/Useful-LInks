@@ -1,9 +1,7 @@
 ![useful](https://www.usefulsimple.co.uk/assets/Values1600x950_USEFUL5-b5c7777e24f79c3956532876dc2d1870dd545cce943a65916097a92df8fd817c.png)
 # Various useful links for developers! 📊
 
-## OS
-
-### CentOS
+## CentOS 
 
 - [Установка node js на centOS 8](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-centos-8-ru)
 - [Установка git на centOS](https://losst.ru/ustanovka-git-centos-8)
