@@ -50,9 +50,15 @@
 ## Visual Studio Code
 
 - Плагины
-  - [Language Packs](https://github.com/Microsoft/vscode-loc)
+  - [Russian Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
   - Темы
     - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
+    - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+  - Темы иконок
+    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
 ## BASH
 
