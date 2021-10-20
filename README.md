@@ -8,17 +8,16 @@
 - [Список команд CentOS](https://www.sites.google.com/site/dlasebamne/home/spisok-komand-centos)
 - [Авторизация в git на CentOS](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7)
 
-## Programming languages
-
-### Node.js
+## Node.js
 
 - [Официальная документация](https://nodejs.org/ru/docs/)
-- [Модуль Yarn](https://www.npmjs.com/package/yarn)
-- [Модуль Forever](https://www.npmjs.com/package/forever)
-- [Модуль Chalk](https://www.npmjs.com/package/chalk)
-- [Модуль Mongoose](https://www.npmjs.com/package/mongoose)
-- [Модуль Vk-io](https://www.npmjs.com/package/vk-io)
-- [Модуль File-system](https://www.npmjs.com/package/file-system)
+- Модули 
+  - [Модуль Yarn](https://www.npmjs.com/package/yarn)
+  - [Модуль Forever](https://www.npmjs.com/package/forever)
+  - [Модуль Chalk](https://www.npmjs.com/package/chalk)
+  - [Модуль Mongoose](https://www.npmjs.com/package/mongoose)
+  - [Модуль Vk-io](https://www.npmjs.com/package/vk-io)
+  - [Модуль File-system](https://www.npmjs.com/package/file-system)
 
 ### CSS
 
