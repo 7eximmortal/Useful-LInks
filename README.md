@@ -10,7 +10,7 @@
 
 ## Node.js
 
-- Учебники
+- Литература
   - [Официальная документация](https://nodejs.org/ru/docs/)
 - Модули 
   - [Модуль Yarn](https://www.npmjs.com/package/yarn)
@@ -22,24 +22,24 @@
 
 ## CSS
 
-- Учебники
-  - [MDN](https://developer.mozilla.org/ru/docs/Web/CSS)
+- Литература
+  - [Учебник по CSS MDN](https://developer.mozilla.org/ru/docs/Web/CSS)
 
 ## HTML
 
-- Учебники
-  - [MDN](https://developer.mozilla.org/ru/docs/Web/HTML)
+- Литература
+  - [Учбеник по HTML MDN](https://developer.mozilla.org/ru/docs/Web/HTML)
 
 ## Lua
 
-- Учебники
-  - [3-ие издание книги по Lua](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
+- Литература
+  - [Книга по LUA 3 издание](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
 
 ## JavaScript
 
-- Учебники
-  - [learn.javascript.ru](https://learn.javascript.ru/)
-  - [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+- Литература
+  - [Учебник по JavaScript learn.javascript.ru](https://learn.javascript.ru/)
+  - [Учебник по JavaScript MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - Стили написания кода
   - [Airbnb](https://leonidlebedev.github.io/javascript-airbnb/)
   - [lwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
@@ -54,13 +54,14 @@
 
 ## BASH
 
-- [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
+- Разное
+  - [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
 
 ## Web
 
-- Учебники 
-  - [веб графика MDN](https://developer.mozilla.org/ru/docs/Web/Guide/Graphics)
+- Литература 
+  - [Учбеник по WEB Графике MDN](https://developer.mozilla.org/ru/docs/Web/Guide/Graphics)
 
 ## Yarn
-- Учебники
+- Литература
   - [Официальная документация](https://classic.yarnpkg.com/lang/en/docs/)
