@@ -54,6 +54,7 @@
   - Темы
     - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
     - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+    - [Pop N' Lock Theme by Luxcium ✨](https://marketplace.visualstudio.com/items?itemName=Luxcium.pop-n-lock-theme-vscode)
   - Темы иконок
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   - Темы коментариев 
