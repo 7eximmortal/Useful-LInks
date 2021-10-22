@@ -38,6 +38,7 @@
 ## JavaScript
 
 - Литература
+  - [Википедия о JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
   - [Учебник по JavaScript learn.javascript.ru](https://learn.javascript.ru/)
   - [Учебник по JavaScript MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
   - [Стиль написания кода от Airbnb](https://leonidlebedev.github.io/javascript-airbnb/)
