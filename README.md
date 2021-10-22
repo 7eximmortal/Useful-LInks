@@ -56,8 +56,10 @@
     - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
     - [Pop N' Lock Theme by Luxcium ✨](https://marketplace.visualstudio.com/items?itemName=Luxcium.pop-n-lock-theme-vscode)
     - [Hackpot](https://marketplace.visualstudio.com/items?itemName=wwmyers.hackpot)
-  - Темы иконок
+  - Темы иконок файлов и папок
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  - Темы иконок приложения
+    - [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
   - Темы коментариев 
     - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
   - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
