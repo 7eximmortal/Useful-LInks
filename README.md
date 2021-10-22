@@ -60,7 +60,7 @@
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   - Темы иконок приложения
     - [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
-  - Темы коментариев 
+  - Темы комментариев 
     - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
   - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
