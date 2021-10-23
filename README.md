@@ -70,6 +70,7 @@
 
 - Литература
   - [Создание файлов в терминале](https://losst.ru/kak-sozdat-fajl-v-terminale)
+  - [Шпаргалка по BASH](https://tproger.ru/translations/bash-cheatsheet/)
 
 ## Web
 
