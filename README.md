@@ -11,6 +11,7 @@
 ## Node.js
 
 - Литература
+  - [Википедия Node.js](https://ru.wikipedia.org/wiki/Node.js)
   - [Официальная документация](https://nodejs.org/ru/docs/)
 - Модули 
   - [Модуль Yarn](https://www.npmjs.com/package/yarn)
