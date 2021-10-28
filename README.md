@@ -87,3 +87,7 @@
 - Литература
   - [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637)
   - [MarkDown Guide](https://www.markdown.guide/emphasis)
+
+## Shields.io
+- Литература
+  - [Официальная документация](https://shields.io/)
