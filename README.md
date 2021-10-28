@@ -91,3 +91,7 @@
 ## Shields.io
 - Литература
   - [Официальная документация](https://shields.io/)
+
+## Materials
+- Иконки
+  - [Simple icons](https://simpleicons.org/)
