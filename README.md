@@ -34,6 +34,7 @@
 ## Lua
 
 - Литература
+  - [Википедия](https://ru.wikipedia.org/wiki/Lua)
   - [Книга по LUA 3 издание](http://texno.info/wp-content/uploads/2019/09/lua.pdf)
 
 ## JavaScript
